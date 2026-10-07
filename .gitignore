@@ -1,3 +1,7 @@
+# directories
+pipeline/ny_taxi_postgres_data/
+/ny_taxi_postgres_data
+
 # extensions files
 *.parquet
 
